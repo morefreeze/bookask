@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# book data
+data/
+# cookie file
+cookie.*
